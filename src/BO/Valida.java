@@ -59,21 +59,6 @@ public class Valida {
 				System.out.println("------------------------------------+");
 			}
 		}
-	
-		
-		
-		
-	/*	receba=ld.Verifica(l);
-		if(receba==null) {
-			System.out.println("oi");
-			em.Opc();
-		}else {
-			em.Opc();
-			System.out.println("porra");
-		}
-		
-*/
-		
 	}
 
 }
